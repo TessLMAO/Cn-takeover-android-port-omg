@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="char2.png">
+<SubTexture name="char0000" x="250" y="0" width="249" height="204" frameX="-9" frameY="0" frameWidth="261" frameHeight="208" />
+<SubTexture name="char0001" x="250" y="0" width="249" height="204" frameX="-9" frameY="0" frameWidth="261" frameHeight="208" />
+<SubTexture name="char0002" x="0" y="0" width="250" height="206" frameX="-9" frameY="-2" frameWidth="261" frameHeight="208" />
+<SubTexture name="char0003" x="0" y="0" width="250" height="206" frameX="-9" frameY="-2" frameWidth="261" frameHeight="208" />
+<SubTexture name="char0004" x="0" y="206" width="251" height="194" frameX="-3" frameY="-11" frameWidth="261" frameHeight="208" />
+<SubTexture name="char0005" x="0" y="206" width="251" height="194" frameX="-2" frameY="-11" frameWidth="261" frameHeight="208" />
+<SubTexture name="char0006" x="499" y="0" width="251" height="189" frameX="0" frameY="-16" frameWidth="261" frameHeight="208" />
+<SubTexture name="char0007" x="499" y="0" width="251" height="189" frameX="0" frameY="-16" frameWidth="261" frameHeight="208" />
+<SubTexture name="char0008" x="499" y="189" width="251" height="183" frameX="0" frameY="-19" frameWidth="261" frameHeight="208" />
+<SubTexture name="char0009" x="499" y="189" width="251" height="183" frameX="0" frameY="-19" frameWidth="261" frameHeight="208" />
+<SubTexture name="char0010" x="0" y="400" width="251" height="182" frameX="0" frameY="-20" frameWidth="261" frameHeight="208" />
+<SubTexture name="char0011" x="0" y="400" width="251" height="182" frameX="0" frameY="-20" frameWidth="261" frameHeight="208" />
+<SubTexture name="char0012" x="251" y="400" width="251" height="182" frameX="0" frameY="-20" frameWidth="261" frameHeight="208" />
+<SubTexture name="char0013" x="251" y="400" width="251" height="182" frameX="0" frameY="-20" frameWidth="261" frameHeight="208" />
+<SubTexture name="char0014" x="750" y="0" width="251" height="182" frameX="0" frameY="-20" frameWidth="261" frameHeight="208" />
+<SubTexture name="char0015" x="750" y="0" width="251" height="182" frameX="0" frameY="-20" frameWidth="261" frameHeight="208" />
+</TextureAtlas>

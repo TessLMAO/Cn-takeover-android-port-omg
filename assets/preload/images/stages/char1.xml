@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="char1.png">
+<SubTexture name="char0000" x="0" y="0" width="606" height="343" frameX="-3" frameY="-4" frameWidth="621" frameHeight="347" />
+<SubTexture name="char0001" x="606" y="0" width="601" height="340" frameX="-5" frameY="-3" frameWidth="621" frameHeight="347" />
+<SubTexture name="char0002" x="0" y="680" width="604" height="333" frameX="0" frameY="-3" frameWidth="621" frameHeight="347" />
+<SubTexture name="char0003" x="0" y="343" width="619" height="337" frameX="-3" frameY="0" frameWidth="621" frameHeight="347" />
+</TextureAtlas>
