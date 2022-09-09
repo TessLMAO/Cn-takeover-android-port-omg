@@ -159,10 +159,10 @@
 				10,
 				16
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT-alt",
-			"indices": [],
+			"loop": false,
 			"name": "ALT 2 BF LEFT"
 		},
 		{
@@ -170,10 +170,10 @@
 				-30,
 				-70
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN-alt",
-			"indices": [],
+			"loop": false,
 			"name": "ALT 2 BF DOWN"
 		},
 		{
@@ -181,10 +181,10 @@
 				-79,
 				69
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singUP-alt",
-			"indices": [],
+			"loop": false,
 			"name": "ALT 2 BF UP"
 		},
 		{
@@ -192,18 +192,18 @@
 				-26,
 				-6
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT-alt",
-			"indices": [],
+			"loop": false,
 			"name": "ALT 2 BF RIGHT"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/DEAD",
 	"position": [
-		50,
-		440
+		0,
+		350
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -213,9 +213,9 @@
 		209
 	],
 	"camera_position": [
-		110,
-		-100
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 2
+	"scale": 1
 }
